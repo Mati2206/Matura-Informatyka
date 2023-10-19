@@ -1,0 +1,5 @@
+1.
+
+131 50  5   5   Prawda  Fałsz
+416 84  11  12  Fałsz   Fałsz
+32  221 5   5   Prawda  Prawda
